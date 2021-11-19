@@ -1,7 +1,7 @@
 /**
  * Description: Console Game Rock-Paper-Scissors
  * Author:      Nazarii Kurylko
- * Created:     19.1.2021
+ * Created:     19.11.2021
  **/
 
 #include <stdio.h>
